@@ -253,7 +253,7 @@
 		(remove_unused_layers no)
 		(uuid "5f5b9bc1-c40e-4d22-9138-81559747957f")
 	)
-	(model "C:/Users/ekema/Documents/KiCad/projects/esp32-opentherm/ul_SS-5-1A-BK/FUS_CB_SS-5.step"
+	(model "${MY_LIB_DIR}/my_lib.3dshapes/FUS_CB_SS-5.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -36,7 +36,7 @@
 	(fp_circle (center -3.50 -4.00) (end -3.35 -4.00) (layer F.Fab) (width 0.30))
 	(fp_circle (center -3.50 4.00) (end -3.35 4.00) (layer F.Fab) (width 0.30))
 	(fp_circle (center -4.00 2.90) (end -3.90 2.90) (layer F.SilkS) (width 0.25))
-	(model "C:/Users/ekema/Documents/Kicad/my_lib/my_lib.3dshapes/FILTER-TH_4P-L17.0-W12.0-H16.5-P7.00-D0.6-S8.00.wrl"
+	(model "${MY_LIB_DIR}/my_lib.3dshapes/FILTER-TH_4P-L17.0-W12.0-H16.5-P7.00-D0.6-S8.00.wrl"
 		(offset (xyz 0.000 0.130 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 270))
